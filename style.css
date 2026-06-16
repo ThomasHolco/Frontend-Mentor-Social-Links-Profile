@@ -67,14 +67,11 @@ p {
 
 .button:hover {
     color: blue;
+    transition-duration: 0.4s;
 }
 
 .button:active {
     color: pink;
-}
-
-.button:visited {
-    color: purple;
 }
 
 img {           /* Controls the image */
